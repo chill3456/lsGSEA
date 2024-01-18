@@ -188,7 +188,7 @@ If using --setNameToFilter argument will return a .txt file that filtered the /o
 | cell_line2                              | 0.0160544   | 0.000994428	| red     | 
 | Precursor B-cell lymphoblastic leukemia	| -0.031293763| NA          | blue    | 
 
-<img src='https://github.com/chill3456/lsGSEA/blob/master/assets/peaksSet4_all_nearest_gene.bed__filtered_merged_summarized_by_set_name_primary_diagnosis_results.png' width = '50%' alt="graph showing peaksSet4_all_nearest_gene.bed__filtered_merged_summarized_by_set_name_primary_diagnosis_results.png">
+<img src='https://github.com/chill3456/lsGSEA/blob/master/assets/peaksSet4_all_nearest_gene.bed__filtered_merged_summarized_by_set_name_primary_diagnosis_results.png' width = '100%' alt="graph showing peaksSet4_all_nearest_gene.bed__filtered_merged_summarized_by_set_name_primary_diagnosis_results.png">
 
 If using --primaryDiagnosisFilter argument will return a .txt file that filtered the /outputExamples/ssgsea_merged_summarized_by_set_name_primary_diagnosis_results.txt file by the given set_name and a graph showing the    set_name's with the 10 lowest and highest average ssGSEA, GSVA, zscore, or plage score and error bars with standard devation.  /outputExamples/cell_line1__filtered_merged_summarized_by_set_name_primary_diagnosis_results.txt and /outputExamples/cell_line1__filtered_merged_summarized_by_set_name_primary_diagnosis_results.pdf
 
@@ -201,4 +201,4 @@ If using --primaryDiagnosisFilter argument will return a .txt file that filtered
 | peaksSet3_all_nearest_gene.bed | 0.143625617 | 0.0022123   | red     | 
 | ABBUD_LIF_SIGNALING_1_DN       | 0.030325599 | 0.003944133 | red     | 
 
-<img src='https://github.com/chill3456/lsGSEA/blob/master/assets/cell_line1__filtered_merged_summarized_by_set_name_primary_diagnosis_results.png' width = '50%' alt="graph showing cell_line1__filtered_merged_summarized_by_set_name_primary_diagnosis_results.png">
+<img src='https://github.com/chill3456/lsGSEA/blob/master/assets/cell_line1__filtered_merged_summarized_by_set_name_primary_diagnosis_results.png' width = '100%' alt="graph showing cell_line1__filtered_merged_summarized_by_set_name_primary_diagnosis_results.png">
