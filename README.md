@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img width="40%" src="https://github.com/chill3456/lsGSEA/blob/master/assets/graphic.png" alt="graphic describing lsGSEA.R png">
+    <img width="60%" src="https://github.com/chill3456/lsGSEA/blob/master/assets/graphic.png" alt="graphic describing lsGSEA.R png">
   </a>
   <h1 align="center">lsGSEA</h1>
 </p>
