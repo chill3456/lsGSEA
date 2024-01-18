@@ -1,0 +1,1 @@
+case_id	set_name	gsva_score	project_id	primary_diagnosis	site_of_resection_or_biopsy	tissue_or_organ_of_origin	up_down

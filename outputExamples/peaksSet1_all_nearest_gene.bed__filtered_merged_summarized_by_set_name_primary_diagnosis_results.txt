@@ -1,0 +1,6 @@
+primary_diagnosis	gsva_score	sd	up_down
+"Neuroblastoma, NOS"	0.16430978832491	NA	red
+"Squamous cell carcinoma, NOS"	0.16278023482161	NA	red
+cell_line1	0.126361761718345	0.00142727407731678	red
+cell_line2	0.167517346518785	0.00190779025051146	red
+Precursor B-cell lymphoblastic leukemia	0.163679741296952	NA	red
